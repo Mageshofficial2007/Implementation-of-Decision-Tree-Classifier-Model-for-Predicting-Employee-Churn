@@ -57,7 +57,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![Screenshot 2024-11-28 171107](https://github.com/user-attachments/assets/5f7ab952-95e2-43db-af49-aecd157474d7)
+![image](https://github.com/user-attachments/assets/3b6d8cd6-02db-4f9b-b1fb-402909b8794c)
+
 
 
 ## Result:
